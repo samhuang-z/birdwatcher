@@ -2,6 +2,7 @@ GO ?= go
 
 all: static-check birdwatcher 
 
+
 birdwatcher:
 	@echo "Compiling birdwatcher"
 	@mkdir -p bin
