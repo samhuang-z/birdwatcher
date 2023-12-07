@@ -9,6 +9,7 @@ Debug tool for Milvus 2.0 project. This tool connects to etcd and inspect some s
 ### Prerequisite
 go 1.18 or higher 
 
+
 ### Install birdwatcher
 
 download source and run with go command
